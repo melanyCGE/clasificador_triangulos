@@ -1,0 +1,8 @@
+    1  mkdir clasificador_triangulos
+    2  cd clasificador_triangulos
+    3  touch triangulo.py
+    4  nano triangulo.py
+    5  python3 triangulo.py
+    6  nano triangulo.py
+    7  history
+
